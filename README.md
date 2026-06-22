@@ -1,4 +1,4 @@
-# whisperx-transcription--Seigneuse-
+# whisperx-transcription-Hackathon ENC 2026 
 # 🎙️ WhisperX — Pipeline de Transcription & Diarisation (Français)
 
 > **Contribution individuelle au projet [InfoVox Tracker – CDingo](https://github.com/PoidsPlume/CDingo)**  
